@@ -1,10 +1,10 @@
-<h1 align="center">📘 THE CODE MAGAZINE</h1>
+<h1 align="center">💺 The Chair Shop 🪑</h1>
 
-This is a project for the Code Magazine, a magazine that talks about programming and technology.
+This is a chiars shop website, a website that talks about chiars and showcase its best selling projects.
 
-![Behance](./hero.png)
+![Hero Page](./hero.png)
 
-Click [here](https://blog-post-rajeev.netlify.app/) and Read this blog.
+Click [here](https://rajeevchairshop.netlify.app/) to buy a new chair.
 
 ## Tech Stack
 
@@ -16,10 +16,12 @@ Click [here](https://blog-post-rajeev.netlify.app/) and Read this blog.
 
 - CSS Grid
 
+- Design Concept
+
 - Markdown
 
 ## Useful Links
 
-- [Project Demo](https://blog-post-rajeev.netlify.app/) for Web version
+- [Project Demo](https://rajeevchairshop.netlify.app/) for Web version
 
 - [Project Repository](https://github.com/Rajeevjewar/Table-Shop.git)
